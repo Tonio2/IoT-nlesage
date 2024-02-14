@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: wil-playground
-        image: wil42/playground:v1 # The tag here specifies the version
+        image: wil42/playground:v2 # The tag here specifies the version
         ports:
         - containerPort: 8888
 
